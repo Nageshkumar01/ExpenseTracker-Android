@@ -102,7 +102,7 @@ ExpenseTracker follows an MVVM-based architecture with a repository layer to kee
 ### 1. Home Dashboard
 
 <p align="center">
-  <img src="screenshots/home.png" alt="Home Dashboard" width="280" />
+<img width="1080" height="2372" alt="DashBoard" src="https://github.com/user-attachments/assets/9109e0db-c1cf-4eb9-ab9a-a9c84e38c1b9" />
 </p>
 
 The main dashboard presents an overview of income, expenses, and net balance, helping users understand their financial position quickly.
@@ -110,7 +110,7 @@ The main dashboard presents an overview of income, expenses, and net balance, he
 ### 2. Add Transaction
 
 <p align="center">
-  <img src="screenshots/add-transaction.png" alt="Add Transaction" width="280" />
+<img width="1080" height="2372" alt="AddTransaction" src="https://github.com/user-attachments/assets/41aaf29f-4ddb-414a-baaf-1d82463f118b" />
 </p>
 
 Record a new income or expense transaction with the relevant transaction details. Input validation helps prevent incomplete or invalid entries.
@@ -118,7 +118,7 @@ Record a new income or expense transaction with the relevant transaction details
 ### 3. View All Transactions
 
 <p align="center">
-  <img src="screenshots/view-all.png" alt="View All Transactions" width="280" />
+<img width="1080" height="2372" alt="AllTransaction" src="https://github.com/user-attachments/assets/199eadba-510d-4592-aba3-5e2056c8b4e2" />
 </p>
 
 Review transaction history, search for specific records, filter by transaction type, and tap a transaction to edit or delete it.
@@ -126,7 +126,7 @@ Review transaction history, search for specific records, filter by transaction t
 ### 4. Recent Transactions
 
 <p align="center">
-  <img src="screenshots/recent-transactions.png" alt="Recent Transactions" width="280" />
+<img width="1080" height="2372" alt="RecentTransaction" src="https://github.com/user-attachments/assets/7318a539-7776-4ba2-b6c5-92f7244cdcc7" />
 </p>
 
 Access recent financial activity without navigating through the entire transaction history.
