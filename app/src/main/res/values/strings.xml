@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string-array name="transaction_filters">
+        <item>All transactions</item>
+        <item>Expenses</item>
+        <item>Income</item>
+    </string-array>
+</resources>
